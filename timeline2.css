@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(56, 68, 77);
+}
+
+.tw{
+    width: 100px;
+
+    margin-left: 50%;
+
+    margin-bottom: 10%;
+}
+
+.lateral{
+
+    background-color: rgb(21, 32, 43);
+}
+
+.lateralUNO button{
+
+    margin-left: 50%;
+
+    margin-bottom: 10%;
+
+}
+
+#tuitearPrincipal input{
+
+    margin-top: 10px;
+
+    margin-bottom: 10px;
+
+}
+
+#separar{
+    margin-top: 2%;
+    height: 3px;
+    background-color: black;
+    margin-bottom: 2%;
+}
+
+
+.imgPerfil{
+
+    height: 500px;
+}
+
+.fox{
+
+    height: 50px;
+}
+
+li{
+    list-style:none;
+}
+
+ul{
+    height: 100%;
+}
+
+
+#perfil img{
+
+    height: 100px;
+    margin-left: 30%;
+
+}
+
+
+
+#perfil div{
+    color: white;
+
+    text-align: center;
+
+    font-size: 150%;
+
+}
