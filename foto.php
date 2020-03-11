@@ -9,12 +9,6 @@ $uploads_dir = 'fotos/perfil';
 
 if(move_uploaded_file($_FILES['fileFoto']['tmp_name'], "$uploads_dir/$nombre_archivo")){
 
-            // echo "<li class='clearAfter' id='$uploads_dir/$nombre_archivo'>
-            // <span class='photo' style='background: url(photos/".$_FILES['ig']['name'].")'></span>
-            // <input type='hidden' id='h' name='h' value='$uploads_dir/$nombre_archivo'>
-            // <a href='#' class='delete'>Eliminar</a>
-            // <a href='#' class='sort'>Ordenar</a></li>";
-
 
 
             include('config.php'); 
